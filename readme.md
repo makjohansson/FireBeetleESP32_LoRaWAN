@@ -8,3 +8,5 @@ For AT commands, error codes, and RAK811 information, see the [RAK811 Breakout B
 The default setting is connected to UART1 on the Firebeetle ESP32, and the UART response timeout is set to 5 seconds. 
 
 ![alt text](img/FireBeetle_RAK811_git.png)
+
+Implementation on the [Raspberry Pi Pico](https://github.com/makjohansson/Pico_LoRaWAN)
